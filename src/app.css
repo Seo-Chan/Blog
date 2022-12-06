@@ -1,0 +1,17 @@
+.black-nav {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    width: 100vw;
+    height: 50px;
+}
+
+span {
+    cursor: pointer;
+}
+
+.modal {
+    margin-top: 20px;
+    padding: 20px;
+    background: #eee;
+}
